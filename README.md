@@ -31,19 +31,14 @@
 <p align="center" width="100%">
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 </p>
-<!---
-your comment goes here
-and here
 
 </p>
 
+<!---
 
 [<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://github.com/AfriHate/AfriHate) 
 
 -->
-
-</p>
-
 # Project Description
 
 <div align="justify">
