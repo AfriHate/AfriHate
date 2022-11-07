@@ -99,7 +99,7 @@ This is a collaborative project with team members from different universities, i
 <p align="center">
 <img align="center" width="500" src="assets/team_afrihate.png" />
 </p>
-|
+
 
 
 
