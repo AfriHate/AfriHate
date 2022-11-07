@@ -2,9 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=love&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+ >> “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” —-Nelson Mandela, Long Walk to Freedom 
 
 
 We are pleased to announce that our research group, HausaNLP of Bayero University Kano, in collaboration with bertie company, ethiopia, LT and UP have successfully secured Lacuna Fund grant to develop resources for the development of resources for Hate and Offensive Speech detection in 18 African Languages.
