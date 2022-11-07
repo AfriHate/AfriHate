@@ -37,7 +37,7 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Languages and Coordinators
 ----------------
-| Language | Volunteer names |
+| Language | Coordinators |
 |----------|-----------------|
 | Hausa  |   |
 | Yoruba  | |
