@@ -20,9 +20,10 @@
 
 <p align="center">
 
-![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 # Project Description
 
 <div align="justify">
