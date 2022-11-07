@@ -35,10 +35,7 @@ However, at present, there are almost no hate detection tools available for any 
 Our project addresses this problem by introducing AfriHate, the first labelled dataset for online hate in Africa, covering X languages. We are also creating baseline machine learning models for each language, which will be made available to other researchers, civil society organisations and social media platforms to use. This is a first-of-its-kind project which has the potential to transform how online hate is understood, tackled and researched across Africa.
 </div>
 
-
-# Languages
-
-### Languages and Coordinators
+# Languages and Coordinators
 ----------------
 | Language | Volunteer names |
 |----------|-----------------|
