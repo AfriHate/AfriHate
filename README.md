@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
 
-    <a>
+    <a href="https://github.com/Afrihate/afrihate/pulls">
     <img src="https://img.shields.io/github/stars/AfriHate/AfriHate">
   </a>
   
@@ -41,7 +41,7 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Languages and Coordinators
 ----------------
-| Language | Coordinators |
+| Language | Volunteer names |
 |----------|-----------------|
 | Hausa  |   |
 | Yoruba  | |
