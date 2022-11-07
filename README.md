@@ -28,12 +28,13 @@
    <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=TweetAboutMe&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     </a>
+
+
+</p>
+
 <p align="center" width="100%">
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 </p>
-
-</p>
-
 <!---
 
 [<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://github.com/AfriHate/AfriHate) 
