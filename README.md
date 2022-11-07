@@ -23,9 +23,9 @@
 
    <a href="Licence">
     <img src="https://img.shields.io/badge/license-CCBY-yellow">
-  </a>
+    </a>
 
-  <a href="Licence">
+    <a href="">
       <img src="https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate">
     </a>
 
@@ -33,9 +33,6 @@
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Tweet%20AfriHate&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     </a>
 </p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 
 
 <!---
