@@ -97,7 +97,6 @@ This is a collaborative project with team members from different universities, i
 | 14. | Algerian Arabic |  |
 | 15. | Moroccan Arabic |  |
 | 16. | Sudanese Arabic |  |
-|----------|----------|-----------------|
 
 
 # Funding
