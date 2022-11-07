@@ -18,7 +18,6 @@
 
 <DIV>
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
-</DIV>
 </p>
 <!-- Links 
 <p align="center">
