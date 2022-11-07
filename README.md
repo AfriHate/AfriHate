@@ -40,3 +40,6 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 # Languages
 
 # Team 
+
+  <img align="center" width="100" src="assets/team.png" />
+
