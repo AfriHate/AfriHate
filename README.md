@@ -1,3 +1,35 @@
+<p align="center">
+  <img align="center" width="100" src="assets/logo.png" />
+
+  <h1 align="center">Github Readme Quotes</h1>
+  <h3 align="center">Developer Quotes for your Github Readme.</h3>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes/issues">
+    <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
+  </a>
+
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes/pulls">
+    <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
+  </a>
+  
+  <a href="https://twitter.com/piyushsthr" target="_blank">
+    <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
+  </a>
+</p>
+
+<!-- Links -->
+<p align="center">
+  <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
+  <span> · </span>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
+</p>
+
+
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/Afrihate/afrihate/main/images/AfriHate.png" width="500">
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
