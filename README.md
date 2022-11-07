@@ -35,8 +35,6 @@
 your comment goes here
 and here
 
-
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
 </p>
 
 
