@@ -28,10 +28,9 @@
    <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Tweet%20AfriHate&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     </a>
+
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 </p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 
 
 <!---
