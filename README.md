@@ -53,6 +53,28 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 </div>
 
 
+# Languages 
+----------------
+| # | Language | Volunteer names |
+|----------|----------|-----------------|
+| 1. | Hausa | |
+| 2. | Yoruba | |
+| 3. | Igbo | |
+| 4. | Nigerian-Pidgin | |
+| 5. | Swahili | |
+| 6. | Amharic | |
+| 7. | Tigrinya | |
+| 8. | Twi | |
+| 9. | isiZulu | |
+| 10. | Afrikaans | |
+| 11. | Oromo |  |
+| 12. | Somali |  |
+| 13. | isiXhosa |  |
+| 14. | Moroccan Arabic |  |
+| 15. | Sudanese Arabic |  |
+| 16. | Kinriywanda |  |
+| 17. | Mozambiqan portuguess |  |
+
 # Team 
 
 This is a collaborative project with team members from different universities, institutions, and the industry. Team members include:
