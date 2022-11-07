@@ -57,7 +57,6 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 This is a collaborative project with team members from different universities, institutions, and industries. Team members include:
 
 ----------------
-<p align="center">
 
 | Name | Aflliation|
 |----------|-----------------|
@@ -71,7 +70,7 @@ This is a collaborative project with team members from different universities, i
 | |   |
 |   |
 |  |  |
-</p>
+
 
 <p align="center">
 <img align="center" width="500" src="assets/team_afrihate.png" />
