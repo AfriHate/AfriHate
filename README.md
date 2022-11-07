@@ -41,5 +41,5 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Team 
 
-  <img align="center" width="500" src="assets/team.png" />
+  <img align="center" width="500" src="assets/team_afrihate.png" />
 
