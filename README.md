@@ -15,12 +15,11 @@
   <a href="https://github.com/Afrihate/afrihate/pulls">
     <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
-<p align="center">
 
+<DIV>
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
-  </p>
+</DIV>
 </p>
-
 <!-- Links 
 <p align="center">
   <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
@@ -30,7 +29,10 @@
 -->
 
 
-
+<p align="center">
+![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+</p>
+</p>
 
 
 
