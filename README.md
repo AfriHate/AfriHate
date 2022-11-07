@@ -38,6 +38,21 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Languages
 
+### Languages and Coordinators
+----------------
+| Language | Volunteer names |
+|----------|-----------------|
+| Hausa  |   |
+| Yoruba  | |
+| Igbo  |  |
+| Nigerian-Pidgin |  |
+| Swahili  |   |
+|    | |
+|  |   |
+| |   |
+|   |
+|  |  |
+
 # Team 
 
 This is a collaborative project with team members from different universities, institutions, and industries. 
