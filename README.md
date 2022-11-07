@@ -54,10 +54,10 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 
 # Languages 
-----------------
-| # | Language | # | Language |
-|---------- |----------|-----------------|
-| 1. | Hausa | |  Hausa | 
+| # | Language | # | Language  |
+|---------- |----------|
+| 1. | Hausa |   | Hausa | 
+| 2. | Yoruba | |  Hausa | 
 
 
 # Team 
