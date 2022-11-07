@@ -20,6 +20,13 @@
     <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
   </a>
   -->
+
+<div class="tip" markdown="1">
+
+  ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+
+</div>
+  
 </p>
 
 <!-- Links 
@@ -31,7 +38,7 @@
 -->
 
 
-![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+
 
 
 
