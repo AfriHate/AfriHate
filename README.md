@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
 
+   <a href="Licence">
+    <img src="https://img.shields.io/badge/license-CCBY-yellow">
+  </a>
+
 </p>
 
 <p align="center">
