@@ -40,6 +40,8 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Team 
 
+This is a collaborative project with team members from different universities, institutions, and industries. 
+
 
 <img align="center" width="500" src="assets/team_afrihate.png" />
 
