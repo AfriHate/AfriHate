@@ -22,8 +22,8 @@
   <a href="https://twitter.com/piyushsthr" target="_blank">
     <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
   </a>
-  ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=Afrihate.Afrihate)
 </p>
+![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=Afrihate.Afrihate)
 
 <!-- Links -->
 <p align="center">
