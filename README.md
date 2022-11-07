@@ -3,10 +3,11 @@
 
 > “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” —-Nelson Mandela, Long Walk to Freedom 
 
-
-  <h1 align="center">Github Readme Quotes</h1>
+  <h1 align="center">Hate Speech Detection for African Languages</h1>
   <h3 align="center">Developer Quotes for your Github Readme.</h3>
 </p>
+
+
 
 <!-- Badges -->
 <p align="center">
