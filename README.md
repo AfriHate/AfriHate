@@ -21,16 +21,13 @@
   </a>
 </p>
 
-<!-- Links -->
+<!-- Links 
 <p align="center">
   <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
   <span> · </span>
   <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
 </p>
-
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/Afrihate/afrihate/main/images/AfriHate.png" width="500">
+-->
 
 ![GitHub](https://img.shields.io/github/license/Afrihate/Afrihate)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=Afrihate.Afrihate)
 
