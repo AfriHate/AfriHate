@@ -96,7 +96,9 @@ This is a collaborative project with team members from different universities, i
 | 13. | isiXhosa |  |
 | 14. | Moroccan Arabic |  |
 | 15. | Sudanese Arabic |  |
-| 15. | Kinriywanda |  |
+| 16. | Kinriywanda |  |
+| 17. | Mozambiqan portuguess |  |
+
 
 
 # Funding
