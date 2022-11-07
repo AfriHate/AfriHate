@@ -29,11 +29,18 @@
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=TweetAboutMe&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+     <a href="Visitors">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate">
+  </a>
 
 <!---
 your comment goes here
 and here
+
+<p align="center" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 
 
 [<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://github.com/AfriHate/AfriHate) 
