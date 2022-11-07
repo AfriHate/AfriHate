@@ -23,9 +23,9 @@
 
    <a href="Licence">
     <img src="https://img.shields.io/badge/license-CCBY-yellow">
-    </a>
+  </a>
 
-    <a href="">
+  <a href="https://github.com/AfriHate/AfriHate">
       <img src="https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate">
     </a>
 
