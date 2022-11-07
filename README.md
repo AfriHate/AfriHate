@@ -28,9 +28,10 @@
    <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Tweet%20AfriHate&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
     </a>
-
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 </p>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 
 
 <!---
@@ -49,29 +50,6 @@ However, at present, there are almost no hate detection tools available for any 
 
 Our project addresses this problem by introducing AfriHate, the first labelled dataset for online hate in Africa, covering 16 African languages. We are also creating baseline machine learning models for each language, which will be made available to other researchers, civil society organizations and social media platforms to use. This is a first-of-its-kind project which has the potential to transform how online hate is understood, tackled and researched across Africa.
 </div>
-
-
-# Languages and Coordinators
-
-----------------
-| # | Language | Volunteer names |
-|----------|----------|-----------------|
-| 1. | Hausa | |
-| 2. | Yoruba | |
-| 3. | Igbo | |
-| 4. | Nigerian-Pidgin | |
-| 5. | Swahili | |
-| 6. | Amharic | |
-| 7. | Tigrinya | |
-| 8. | Twi | |
-| 9. | isiZulu | |
-| 10. | Afrikaans | |
-| 11. | Oromo |  |
-| 12. | Somali |  |
-| 13. | isiXhosa |  |
-| 14. | Algerian Arabic |  |
-| 15. | Moroccan Arabic |  |
-| 16. | Sudanese Arabic |  |
 
 
 # Team 
@@ -98,6 +76,27 @@ This is a collaborative project with team members from different universities, i
 <img align="center" width="500" src="assets/team_afrihate.png" />
 </p>
 
+
+# Languages and Coordinators
+----------------
+| # | Language | Volunteer names |
+|----------|----------|-----------------|
+| 1. | Hausa | |
+| 2. | Yoruba | |
+| 3. | Igbo | |
+| 4. | Nigerian-Pidgin | |
+| 5. | Swahili | |
+| 6. | Amharic | |
+| 7. | Tigrinya | |
+| 8. | Twi | |
+| 9. | isiZulu | |
+| 10. | Afrikaans | |
+| 11. | Oromo |  |
+| 12. | Somali |  |
+| 13. | isiXhosa |  |
+| 14. | Algerian Arabic |  |
+| 15. | Moroccan Arabic |  |
+| 16. | Sudanese Arabic |  |
 
 
 # Funding
