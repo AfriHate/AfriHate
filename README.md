@@ -30,7 +30,7 @@
     </a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate#center)
 
 <!---
 
