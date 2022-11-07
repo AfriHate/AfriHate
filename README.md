@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
 
-<div class="tip" markdown="1">
-  ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
-</div>
+
+![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
+
   
 </p>
 
