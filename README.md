@@ -20,8 +20,9 @@
     <img src="https://img.shields.io/badge/license-CCBY-yellow">
   </a>
 
-  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate"></a>
-
+  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
+  <img alt="Twitter Me" src="https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
+  </a>
 
 
 </p>
