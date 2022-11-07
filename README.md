@@ -80,7 +80,7 @@ This is a collaborative project with team members from different universities, i
 # Languages and Coordinators
 ----------------
 | # | Language | Volunteer names |
-|----------|-----------------|
+|----------|----------|-----------------|
 | 1. | Hausa | |
 | 2. | Yoruba | |
 | 3. | Igbo | |
@@ -97,7 +97,7 @@ This is a collaborative project with team members from different universities, i
 | 14. | Algerian Arabic |  |
 | 15. | Moroccan Arabic |  |
 | 16. | Sudanese Arabic |  |
-|----------|-----------------|
+|----------|----------|-----------------|
 
 
 # Funding
