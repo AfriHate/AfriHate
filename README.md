@@ -33,10 +33,9 @@
 
 
 
-
 <p align="center"><img src="https://raw.githubusercontent.com/Afrihate/afrihate/main/images/AfriHate.png" width="500">
 
-![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
+![GitHub](https://img.shields.io/github/license/Afrihate/Afrihate)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=Afrihate.Afrihate)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://github.com/Afrihate/afrihate) 
 
 
 
