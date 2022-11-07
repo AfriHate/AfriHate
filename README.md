@@ -15,14 +15,6 @@
   <a href="https://github.com/Afrihate/afrihate/pulls">
     <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
-
- <a href="https://img.shields.io/badge/license-CCBY-yellow">
-  </a>
-
-  <a href="https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate">
-  </a>
-
-
   
 </p>
 
