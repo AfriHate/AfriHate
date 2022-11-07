@@ -23,9 +23,7 @@
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate)
 </p>
 
-## Project Description
-
-Description
+# Project Description
 
 Online hate is a growing problem across Africa. It inflicts harm on the people exposed to and targeted by it, pollutes and disrupts online communities and, in the worst cases, can be a precursor to physical violence. Machine learning tools for automatically finding and rating the hatefulness of online content can help to address this problem, supporting content moderation efforts, social media monitoring, and threat evaluation.
 
