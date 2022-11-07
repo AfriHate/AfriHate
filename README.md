@@ -8,8 +8,13 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/Afrihate/afrihate/issues">
-    <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
+  
+  <a href="https://github.com/AfriHate/AfriHate/issues">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/AfriHate/AfriHate">
+  </a>
+
+  <a href="https://github.com/AfriHate/AfriHate/network">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/AfriHate/AfriHate">
   </a>
 
   <a href="https://github.com/Afrihate/afrihate/pulls">
