@@ -55,9 +55,9 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Languages 
 ----------------
-| # | Language | Volunteer names |
-|----------|----------|-----------------|
-| 1. | Hausa | |
+| # | Language | # | Language |
+|---------- |----------|-----------------|
+| 1. | Hausa | |  Hausa | | 
 | 2. | Yoruba | |
 | 3. | Igbo | |
 | 4. | Nigerian-Pidgin | |
