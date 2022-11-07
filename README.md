@@ -98,9 +98,11 @@ This is a collaborative project with team members from different universities, i
 | 11. | Oromo |  |
 | 12. | Somali |  |
 | 13. | isiXhosa |  |
-| 14. | Algerian Arabic |  |
-| 15. | Moroccan Arabic |  |
-| 16. | Sudanese Arabic |  |
+| 14. | Moroccan Arabic |  |
+| 15. | Sudanese Arabic |  |
+| 16. | Kinriywanda |  |
+| 17. | Mozambiqan portuguess |  |
+
 
 
 # Funding
