@@ -72,8 +72,8 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 | 13. | isiXhosa |  |
 | 14. | Moroccan Arabic |  |
 | 15. | Sudanese Arabic |  |
-| 16. | Kinriywanda |  |
-| 17. | Mozambiqan portuguess |  |
+| 16. | Kinyarwanda |  |
+| 17. | Mozambican Portuguese |  |
 
 
 # Team 
