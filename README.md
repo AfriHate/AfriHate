@@ -55,25 +55,25 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 
 # Languages and Coordinators
 ----------------
-| # | Language | Language Coordinators|
-|----------|----------|-----------------|
-| 1. | Hausa | |
-| 2. | Yoruba | |
-| 3. | Igbo | |
-| 4. | Nigerian-Pidgin | |
-| 5. | Swahili | |
-| 6. | Amharic | |
-| 7. | Tigrinya | |
-| 8. | Twi | |
-| 9. | isiZulu | |
-| 10. | Afrikaans | |
-| 11. | Oromo |  |
-| 12. | Somali |  |
-| 13. | isiXhosa |  |
-| 14. | Moroccan Arabic |  |
-| 15. | Sudanese Arabic |  |
-| 16. | Kinyarwanda |  |
-| 17. | Mozambican Portuguese |  |
+| # | Language | Country | Language Coordinators|
+|----------|-----------|----------|-----------------|
+| 1. | Hausa | Nigeria | |
+| 2. | Yoruba | Nigeria | |
+| 3. | Igbo | Nigeria | |
+| 4. | Nigerian-Pidgin | Nigeria | |
+| 5. | Amharic | Ethiopia | |
+| 6. | Tigrinya | Ethiopia | |
+| 7. | Oromo | Ethiopia |  |
+| 8. | Somali | Ethiopia |  |
+| 9. | Twi | Ghana | |
+| 10. | Swahili | Kenya | |
+| 11. | Moroccan Arabic | Morocco |  |
+| 12. | Mozambican Portuguese | Mozambique |  |
+| 13. | Kinyarwanda | Rwanda |  |
+| 14. | isiZulu | South Africa | |
+| 15. | Afrikaans | South Africa | |
+| 16. | isiXhosa | South Africa |  |
+| 17. | Sudanese Arabic | Sudan |  |
 
 
 # Team 
