@@ -78,15 +78,15 @@ This is a collaborative project with team members from different universities, i
 
 | Name | Aflliation|
 |----------|-----------------|
-| Shamsudden Muhammad  |   |
+| Shamsudden Muhammad  | Bayero University, Kano; MasaKhane |
 | Seid Muhie Yimam  | |
-|   |  |
-|  |  |
-|   |   |
-|    | |
-|  |   |
-| |   |
-|   |
+| Idris Abdulmumin  |  |
+| Ibrahim Sa’id Ahmad  |   |
+|Bertie Vidgen| The Alan Turing Insti- tute; CEO Rewire2|
+|Sebastian Ruder    | Senior Research Scientist, Google|
+| Monojit Choudhury |  Senior Researcher, Microsoft |
+| David Ifeoluwa Adelani | MasaKhane; Saarland University   |
+| Saminu Aliyu  | Bayero University, Kano; MasaKhane |
 |  |  |
 
 
