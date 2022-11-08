@@ -79,8 +79,8 @@ This is a collaborative project with team members from different universities, i
 | Name | Aflliation|
 |----------|-----------------|
 | Shamsudden Muhammad  | Bayero University, Kano; MasaKhane |
-| Seid Muhie Yimam  | |
-| Idris Abdulmumin  |  |
+| Seid Muhie Yimam  | University of Humberg |
+| Idris Abdulmumin  | Ahmadu Bello University, Zaria |
 | Ibrahim Sa’id Ahmad  |  Bayero University, Kano; MasaKhane |
 |Bertie Vidgen| The Alan Turing Insti- tute; CEO Rewire2|
 |Sebastian Ruder    | Senior Research Scientist, Google|
