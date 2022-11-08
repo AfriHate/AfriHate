@@ -89,7 +89,6 @@ This is a collaborative project with team members from different universities, i
 | Saminu Aliyu  | Bayero University, Kano; MasaKhane |
 | Nedjma Ousidhoum | University of Cambridge|
 | Debora Nozza |Bocconi University, Italy |
-
 | - | - |
 
 
