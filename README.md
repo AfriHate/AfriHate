@@ -85,7 +85,7 @@ This is a collaborative project with team members from different universities, i
 | Name | Aflliation|
 |----------|-----------------|
 | Shamsudden Muhammad  |   |
-|   | |
+| Seid Muhie Yimam  | |
 |   |  |
 |  |  |
 |   |   |
