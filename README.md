@@ -34,12 +34,6 @@
     </a>
 </p>
 
-
-<!---
-
-[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://github.com/AfriHate/AfriHate) 
-
--->
 # Project Description
 
 <div align="justify">
@@ -97,7 +91,7 @@ This is a collaborative project with team members from different universities, i
 
 
 <p align="center">
-<img align="center" width="500" src="assets/team_afrihate.png" />
+<img align="center" width="500" src="assets/team_afrihate.png" width="800"/>
 </p>
 
 
