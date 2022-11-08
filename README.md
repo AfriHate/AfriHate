@@ -87,7 +87,9 @@ This is a collaborative project with team members from different universities, i
 | Monojit Choudhury |  Senior Researcher, Microsoft |
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
 | Saminu Aliyu  | Bayero University, Kano; MasaKhane |
-|  |  |
+| - | - |
+| - | - |
+
 
 
 <p align="center">
