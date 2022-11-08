@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" src="assets/logo.png" />
 
-> “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” —-Nelson Mandela, Long Walk to Freedom 
+> “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” — Nelson Mandela, Long Walk to Freedom 
 
   <h1 align="center">Hate and Offensive Speech Detection Dataset for African Languages</h1>
 </p>
