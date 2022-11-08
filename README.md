@@ -82,12 +82,14 @@ This is a collaborative project with team members from different universities, i
 | Seid Muhie Yimam  | University of Humberg |
 | Idris Abdulmumin  | Ahmadu Bello University, Zaria |
 | Ibrahim Sa’id Ahmad  |  Bayero University, Kano; MasaKhane |
-|Bertie Vidgen| The Alan Turing Insti- tute; CEO Rewire2|
+|Bertie Vidgen| The Alan Turing Institute; CEO Rewire2|
 |Sebastian Ruder    | Senior Research Scientist, Google|
 | Monojit Choudhury |  Senior Researcher, Microsoft |
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
 | Saminu Aliyu  | Bayero University, Kano; MasaKhane |
-| - | - |
+| Nedjma Ousidhoum | University of Cambridge|
+| Debora Nozza |Bocconi University, Italy |
+
 | - | - |
 
 
