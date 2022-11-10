@@ -82,6 +82,7 @@ This is a collaborative project with team members from different universities, i
 | Seid Muhie Yimam  | University of Humberg |
 | Idris Abdulmumin  | Ahmadu Bello University, Zaria |
 | Ibrahim Sa’id Ahmad  |  Bayero University, Kano; MasaKhane |
+| Abinew Ali |  Bahir Dar University |
 |Bertie Vidgen| The Alan Turing Institute; CEO Rewire2|
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
 |Sebastian Ruder    | Senior Research Scientist, Google|
