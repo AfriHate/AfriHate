@@ -68,6 +68,8 @@ Our project addresses this problem by introducing AfriHate, the first labelled d
 | 15. | Afrikaans | South Africa | |
 | 16. | isiXhosa | South Africa |  |
 | 17. | Sudanese Arabic | Sudan |  |
+| 18. | Algerian Arabic | Algeria |  |
+
 
 
 # Team 
