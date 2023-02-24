@@ -109,7 +109,7 @@ This project is funded by [Lacuna Fund](https://lacunafund.org)
 
 
 <p align="center">
-<img align="center" width="500" src="assets/Oracle_forResearch_rgb.png" width="800"/>
+<img align="center" width="500" src="assets/Oracle_forResearch_rgb_rev.png" width="800"/>
 </p>
 
 
