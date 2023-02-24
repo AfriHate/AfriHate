@@ -106,3 +106,13 @@ This is a collaborative project with team members from different universities, i
 # Funding
 
 This project is funded by [Lacuna Fund](https://lacunafund.org)
+
+This project is funded by [Lacuna Fund](https://lacunafund.org)
+
+<p align="center">
+  <img align="center" src="assets/logo.png" />
+
+  <h1 align="center">Hate and Offensive Speech Detection Dataset for African Languages</h1>
+</p>
+
+
