@@ -113,5 +113,5 @@ This project is funded by [Lacuna Fund](https://lacunafund.org) and received clo
 
 
 <p align="center">
-<img align="center" width="500" src="assets/Oracle_forResearch_rgb_rev.png" width="800"/>
+<img align="center" width="500" src="assets/Oracle_Cloude.png" width="800"/>
 </p>
