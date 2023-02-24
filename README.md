@@ -105,7 +105,7 @@ This is a collaborative project with team members from different universities, i
 
 # Funding
 
-This project is funded by [Lacuna Fund](https://lacunafund.org) and received Cloud credits and computational resources from [Oracle for Research](https://www.oracle.com/research/).
+This project is funded by [Lacuna Fund](https://lacunafund.org) and received cloud credits and computational resources support from [Oracle for Research](https://www.oracle.com/research/).
 
 <p align="center">
 <img align="center" width="500" src="assets/Lacuna_Fund.jpeg" width="800"/>
