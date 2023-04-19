@@ -44,7 +44,7 @@ Online hate is a growing problem worldwide, causing harm to users who are expose
 Social media organizations have taken various steps to protect their platforms from the spread of hate speech including in Africa.
 However, efforts to address hateful content have primarily focused on high-profile individuals, and are addressed through time-intensive human-based review. This approach is not scalable and fails to effectively moderate the vast majority of content produced by less prominent individuals. A significant obstacle to improving moderation is that African languages are 'low-resource', and automated assistive machine learning tools are not yet available. As a result, African languages remain under-served and African users are subject to restrictive interventions such as the removal of content based on certain keywords, regardless of context or intent.
 
-Our project <b>AfriHate</b>, introcues the first collection of high-quality labeled Twitter datasets for detecting hate and abusive languages in 18 African languages. We will share data and baseline machine learning detection models for each language to enable further research, understanding, and analysis of online hate across Africa.
+Our project <b>AfriHate</b>, introduces the first collection of high-quality labeled Twitter datasets for detecting hate and abusive languages in 18 African languages. We will share data and baseline machine learning detection models for each language to enable further research, understanding, and analysis of online hate across Africa.
 </div>
 
 
