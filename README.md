@@ -83,27 +83,24 @@ This is a collaborative project with team members from different universities, i
 
 | Name | Aflliation|
 |----------|-----------------|
-| Shamsudden Muhammad  | Bayero University, Kano; MasaKhane |
-| Seid Muhie Yimam  | University of Humberg |
-| Idris Abdulmumin  | Ahmadu Bello University, Zaria |
+| Shamsudden Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
+| Seid Muhie Yimam  | University of Humberg; MasaKhane |
+| Idris Abdulmumin  | Ahmadu Bello University, Zaria, Nigeria |
 | Ibrahim Sa’id Ahmad  |  Bayero University, Kano; MasaKhane |
 | Abinew Ali |  Bahir Dar University |
-|Bertie Vidgen| Rewire|
+|Bertie Vidgen| |
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
 |Sebastian Ruder    | Senior Research Scientist, Google|
 | Monojit Choudhury |  Senior Researcher, Microsoft |
 | Saminu Aliyu  | Bayero University, Kano; MasaKhane |
 | Nedjma Ousidhoum | University of Cambridge|
 | Debora Nozza |Bocconi University, Italy |
-| Paul Röttger | Rewire, University of Oxford|
-
+| Paul Röttger | University of Oxford|
 
 
 <p align="center">
 <img align="center" width="500" src="assets/team_afrihate.png" width="800"/>
 </p>
-
-
 
 
 # Ethical Statement
