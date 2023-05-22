@@ -106,19 +106,6 @@ This is a collaborative project with team members from different universities, i
 
 
 
-# Funding
-
-This project is funded by [Lacuna Fund](https://lacunafund.org) and received cloud credits and computational resources support from [Oracle for Research](https://www.oracle.com/research/).
-
-<p align="center">
-<img align="center" width="500" src="assets/Lacuna_Fund.jpeg" width="800"/>
-</p>
-
-
-<p align="center">
-<img align="center" width="500" src="assets/Oracle_Cloude.png" width="800"/>
-</p>
-
 # Ethical Statement
 
 We acknowledge that current hate speech detection models have a limited ability to classify subtle content and tend to generate false positives and false negatives. We do not claim that systems trained on our datasets will not suffer from the same shortcomings and do not intend to deploy any of our systems for automated content removal, surveillance, censorship, profiling or law enforcement. Our goal is to study the overlooked underlying socio-linguistic phenomena in African languages to avoid false generalizations, educate people on unconscious biases, and build useful assistive moderation technologies in the future.
