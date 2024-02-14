@@ -81,7 +81,7 @@ This is a collaborative project with team members from different universities, i
 
 ----------------
 
-| Name | Aflliation|
+| Name | Affiliation|
 |----------|-----------------|
 | Shamsudden Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
 | Seid Muhie Yimam  | University of Humberg; MasaKhane |
