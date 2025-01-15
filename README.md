@@ -14,40 +14,38 @@
 <p align="center">
   
   <a href="https://github.com/AfriHate/AfriHate/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/AfriHate/AfriHate?color=red&style=flat-square">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/AfriHate/AfriHate">
   </a>
 
   <a href="https://github.com/AfriHate/AfriHate/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AfriHate/AfriHate?color=blue&style=flat-square">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/AfriHate/AfriHate">
   </a>
 
-  <a href="https://github.com/AfriHate/AfriHate/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AfriHate/AfriHate?color=yellow&style=flat-square">
+  <a href="https://github.com/Afrihate/afrihate/pulls">
+    <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
 
-  <a href="https://github.com/AfriHate/AfriHate/pulls">
-    <img src="https://img.shields.io/github/issues-pr/AfriHate/AfriHate?color=orange&style=flat-square">
-  </a>
-
-  <a href="https://github.com/AfriHate/AfriHate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/AfriHate/AfriHate?color=brightgreen&style=flat-square" alt="License">
+   <a href="Licence">
+    <img src="https://img.shields.io/badge/license-CCBY-yellow">
   </a>
 
   <a href="https://github.com/AfriHate/AfriHate">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate" alt="Visitors">
-  </a>
+      <img src="https://visitor-badge.glitch.me/badge?page_id=AfriHate.AfriHate">
+    </a>
 
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
-    <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Tweet%20AfriHate&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate&color=blue&style=flat-square">
-  </a>
+   <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
+    <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Tweet%20AfriHate&url=https%3A%2F%2Fgithub.com%2FAfriHate%2FAfriHate">
+    </a>
+</p>
+ -->
 
-  <a href="https://github.com/AfriHate/AfriHate/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AfriHate/AfriHate?color=purple&style=flat-square">
-  </a>
 
-  <a href="https://github.com/AfriHate/AfriHate">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AfriHate/AfriHate?color=darkgreen&style=flat-square">
-  </a>
+<p align="center">
+  <img align="center" src="assets/logo.png" />
+
+> “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” — Nelson Mandela, Long Walk to Freedom 
+
+  <h1 align="center">Hate and Offensive Speech Detection Dataset for African Languages</h1>
 </p>
 
 
