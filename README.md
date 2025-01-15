@@ -73,13 +73,10 @@ Since African languages have been comparatively low-resource in NLP research mai
 | 9. | Twi | Ghana | |
 | 10. | Swahili | Kenya | |
 | 11. | Moroccan Arabic | Morocco |  |
-| 12. | Mozambican Portuguese | Mozambique |  |
-| 13. | Kinyarwanda | Rwanda |  |
-| 14. | isiZulu | South Africa | |
-| 15. | Afrikaans | South Africa | |
-| 16. | isiXhosa | South Africa |  |
-| 17. | Sudanese Arabic | Sudan |  |
-| 18. | Algerian Arabic | Algeria |  |
+| 12. | Kinyarwanda | Rwanda |  |
+| 13. | isiZulu | South Africa | |
+| 14. | isiXhosa | South Africa |  |
+| 15. | Algerian Arabic | Algeria |  |
 
 
 
@@ -97,13 +94,9 @@ This is a collaborative project with team members from different universities, i
 | Idris Abdulmumin  | Ahmadu Bello University, Zaria, Nigeria |
 | Ibrahim Sa’id Ahmad  |  Bayero University, Kano; MasaKhane |
 | Abinew Ali |  Bahir Dar University, EthioNLP |
-|Bertie Vidgen| |
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
-|Sebastian Ruder    | Senior Research Scientist, Google|
-| Monojit Choudhury |  Senior Researcher, Microsoft |
 | Saminu Aliyu  | Bayero University, Kano; MasaKhane |
 | Nedjma Ousidhoum | University of Cambridge|
-| Debora Nozza |Bocconi University, Italy |
 | Paul Röttger | University of Oxford|
 
 
