@@ -35,7 +35,7 @@
 </p>
 
 
-> Notice: Dataset Release Coming Soon!
+> Dataset Release Coming Soon!
 
 
 # Project Description
