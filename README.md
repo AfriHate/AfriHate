@@ -1,3 +1,6 @@
+> Dataset Release Coming Soon! For inquiries and collaboration, feel free to reach out to us. Check out our dataset paper: https://arxiv.org/pdf/2501.08284.
+
+
 <p align="center">
   <img align="center" src="assets/logo.png" />
 
@@ -35,7 +38,6 @@
 </p>
 
 
-> Dataset Release Coming Soon! For inquiries and collaboration, feel free to reach out to us. Check out our dataset paper: https://arxiv.org/pdf/2501.08284.
 
 
 
