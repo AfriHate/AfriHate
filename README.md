@@ -1,14 +1,6 @@
 The dataset Release Coming Soon! For inquiries and collaboration, feel free to reach out to us. Check out our dataset paper: https://arxiv.org/pdf/2501.08284.
 
 
-<p align="center">
-  <img align="center" src="assets/logo.png" />
-
-> “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” — Nelson Mandela, Long Walk to Freedom 
-
-  <h1 align="center">Hate Speech and Abusive Language Detection Datasets for African Languages</h1>
-<!-- </p>
-
 
 <!-- Badges -->
 <p align="center">
@@ -43,7 +35,7 @@ The dataset Release Coming Soon! For inquiries and collaboration, feel free to r
 <p align="center">
   <img align="center" src="assets/logo.png" />
 
-> “No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.” — Nelson Mandela, Long Walk to Freedom 
+_**“No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.”**_ — Nelson Mandela, Long Walk to Freedom 
 
   <h1 align="center">Hate Speech and Abusive Language Detection Datasets for African Languages</h1>
 </p>
@@ -84,7 +76,7 @@ Since African languages have been comparatively low-resource in NLP research mai
 | 12. | Kinyarwanda | Rwanda |  |
 | 13. | isiZulu | South Africa | |
 | 14. | isiXhosa | South Africa |  |
-| 15. | Algerian Arabic | Algeria |  |
+| 15. | Algerian Arabic | Algeria | Nedjma Ousidhoum |
 
 
 
