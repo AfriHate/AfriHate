@@ -65,8 +65,8 @@ Since African languages have been comparatively low-resource in NLP research mai
 ----------------
 | # | Language | Country | Language Coordinators|
 |----------|-----------|----------|-----------------|
-| 1. | Hausa | Nigeria | |
-| 2. | Yoruba | Nigeria | |
+| 1. | Hausa | Nigeria |Saminu Mohammad Aliyu |
+| 2. | Yoruba | Nigeria |David Ifeoluwa Adelani |
 | 3. | Igbo | Nigeria | |
 | 4. | Nigerian-Pidgin | Nigeria | |
 | 5. | Amharic | Ethiopia | |
@@ -74,11 +74,11 @@ Since African languages have been comparatively low-resource in NLP research mai
 | 7. | Oromo | Ethiopia |  |
 | 8. | Somali | Ethiopia |  |
 | 9. | Twi | Ghana | |
-| 10. | Swahili | Kenya | |
+| 10. | Swahili | Kenya |Lilian D. A. Wanzare |
 | 11. | Moroccan Arabic | Morocco |  |
-| 12. | Kinyarwanda | Rwanda |  |
-| 13. | isiZulu | South Africa | |
-| 14. | isiXhosa | South Africa |  |
+| 12. | Kinyarwanda | Rwanda | Samuel Rutunda |
+| 13. | isiZulu | South Africa |Rooweither Mabuya|
+| 14. | isiXhosa | South Africa |Andiswa Bukula  |
 | 15. | Algerian Arabic | Algeria | Nedjma Ousidhoum |
 
 
