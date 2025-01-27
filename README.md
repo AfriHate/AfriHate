@@ -68,14 +68,14 @@ Since African languages have been comparatively low-resource in NLP research mai
 | 1. | Hausa | Nigeria |Saminu Mohammad Aliyu |
 | 2. | Yoruba | Nigeria |David Ifeoluwa Adelani |
 | 3. | Igbo | Nigeria |Chiamaka Ijeoma Chukwuneke |
-| 4. | Nigerian-Pidgin | Nigeria | |
+| 4. | Nigerian-Pidgin | Nigeria |Saminu Mohammad Aliyu |
 | 5. | Amharic | Ethiopia | |
 | 6. | Tigrinya | Ethiopia | |
 | 7. | Oromo | Ethiopia |  |
 | 8. | Somali | Ethiopia |  |
-| 9. | Twi | Ghana | |
+| 9. | Twi | Ghana |Abigail Oppong |
 | 10. | Swahili | Kenya |Lilian D. A. Wanzare |
-| 11. | Moroccan Arabic | Morocco |  |
+| 11. | Moroccan Arabic | Morocco |Oumaima Hourrane |
 | 12. | Kinyarwanda | Rwanda | Samuel Rutunda |
 | 13. | isiZulu | South Africa |Rooweither Mabuya|
 | 14. | isiXhosa | South Africa |Andiswa Bukula  |
