@@ -91,7 +91,7 @@ This is a collaborative project with team members from different universities, i
 
 | Name | Affiliation|
 |----------|-----------------|
-| Shamsudden Hassan Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
+| Shamsuddeen Hassan Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
 | Esubalew Alemneh | Bahir Dar University, Bahir Dar, Ethiopia |
 | Seid Muhie Yimam  | University of Humberg; MasaKhane, EthioNLP |
 | Idris Abdulmumin  | Ahmadu Bello University, Zaria, Nigeria |
