@@ -69,10 +69,10 @@ Since African languages have been comparatively low-resource in NLP research mai
 | 2. | Yoruba | Nigeria |David Ifeoluwa Adelani |
 | 3. | Igbo | Nigeria |Chiamaka Ijeoma Chukwuneke |
 | 4. | Nigerian-Pidgin | Nigeria |Saminu Mohammad Aliyu |
-| 5. | Amharic | Ethiopia | |
-| 6. | Tigrinya | Ethiopia | |
-| 7. | Oromo | Ethiopia |  |
-| 8. | Somali | Ethiopia |  |
+| 5. | Amharic | Ethiopia |Ebrahim Chekol Jibril |
+| 6. | Tigrinya | Ethiopia |Hagos Tesfahun Gebremichael |
+| 7. | Oromo | Ethiopia |Tadesse Kebede Guge  |
+| 8. | Somali | Ethiopia |Elyas Abdi Ismail  |
 | 9. | Twi | Ghana |Abigail Oppong |
 | 10. | Swahili | Kenya |Lilian D. A. Wanzare |
 | 11. | Moroccan Arabic | Morocco |Oumaima Hourrane |
