@@ -111,3 +111,9 @@ This is a collaborative project with team members from different universities, i
 # Ethical Statement
 
 We acknowledge that current hate speech detection models have a limited ability to classify subtle content and tend to generate false positives and false negatives. We do not claim that systems trained on our datasets will not suffer from the same shortcomings and do not intend to deploy any of our systems for automated content removal, surveillance, censorship, profiling or law enforcement. Our goal is to study the overlooked underlying socio-linguistic phenomena in African languages to avoid false generalizations, educate people on unconscious biases, and build useful assistive moderation technologies in the future.
+
+# Aknowldegement 
+
+This work was carried out with support from Lacuna Fund, an initiative co-founded by The Rocke-feller Foundation, Google.org, and Canada’s International Development Research Centre. The views
+expressed herein do not necessarily represent those of Lacuna Fund, its Steering Committee, its funders, or Meridian Institute.
+
