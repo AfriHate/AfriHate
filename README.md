@@ -115,5 +115,5 @@ We acknowledge that current hate speech detection models have a limited ability 
 # Aknowldegement 
 
 This work was carried out with support from Lacuna Fund, an initiative co-founded by The Rocke-feller Foundation, Google.org, and Canada’s International Development Research Centre. The views
-expressed herein do not necessarily represent those of Lacuna Fund, its Steering Committee, its funders, or Meridian Institute.
+expressed herein do not necessarily represent those of Lacuna Fund, its Steering Committee, its funders, or Meridian Institute. We also express our profound gratitude to the Nigerian Artificial Intelligence Research Scheme (NAIRS) for providing a grant in this project.
 
