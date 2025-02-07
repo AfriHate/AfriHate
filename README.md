@@ -95,7 +95,7 @@ This is a collaborative project with team members from different universities, i
 | Esubalew Alemneh | Bahir Dar University, Bahir Dar, Ethiopia |
 | Seid Muhie Yimam  | University of Humberg; MasaKhane, EthioNLP |
 | Idris Abdulmumin  | Ahmadu Bello University, Zaria, Nigeria |
-| Ibrahim Sa’id Ahmad  |  Bayero University, Kano; MasaKhane |
+| Ibrahim Said Ahmad  |  Bayero University, Kano; MasaKhane |
 | Abinew Ali |  Bahir Dar University, EthioNLP |
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
 | Saminu Mohammad Aliyu  | Bayero University, Kano; MasaKhane |
