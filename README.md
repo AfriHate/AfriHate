@@ -37,9 +37,12 @@
 _**“No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.”**_ — Nelson Mandela, Long Walk to Freedom 
 
   <h1 align="center">Hate Speech and Abusive Language Datasets for African Languages</h1>
-  
-  The dataset Release Coming Soon! For inquiries and collaboration, feel free to reach out to us. Check out our dataset paper: https://arxiv.org/pdf/2501.08284.
+ 
+ For inquiries and collaboration, feel free to reach out to us. 
+ 
+ Check out our dataset paper: https://arxiv.org/pdf/2501.08284.
 
+ AfriHate dataset: https://huggingface.co/datasets/afrihate/afrihate
 
   </p>
 
